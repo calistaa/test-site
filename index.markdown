@@ -25,7 +25,7 @@ layout: default
           meeting your expectations.</p>
       </div>
       <div class="section-box red" id="red-border-image">
-        <img src="{{'../assets/img/office.webp'|relative_url}}">
+        <img src="{{'assets/img/office.webp'|relative_url}}">
       </div>
     </div>
   </section>
