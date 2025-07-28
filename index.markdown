@@ -7,8 +7,8 @@ layout: default
 
   <div class="hero" id="homepage-hero">
     <div class="hero-content">
-      <h1>Radovic <span>&</span> Associates</h1>
-      <p>Vancouver's Premier Notary Service</p>
+      <h1>Radovic & Associates</h1>
+      <p>Notary Co.</p>
     </div>
   </div>
 

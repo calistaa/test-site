@@ -67,7 +67,8 @@ header {
   font-size: 1.75rem;
   font-weight: 600;
   font-family: 'Source Serif 4', serif;
-  color: #3d3e52;
+  /* color: #3d3e52; */
+  color: #37608b;
   line-height: 1.5rem;
 }
 
@@ -76,7 +77,8 @@ a:hover {
 }
 
 .logo span {
-  color: #d4002a;
+  /* color: #d4002a; */
+  font-weight: 300;
 }
 
 /* nav bar settings */
@@ -190,7 +192,7 @@ nav a {
 }
 
 #homepage-hero {
-  background: url('../img/homepage-header.jpg') 10% 45%/cover no-repeat;
+  background: url('../img/photo_server.jpg') 10% 45%/cover no-repeat;
 
 }
 
